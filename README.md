@@ -19,8 +19,10 @@ UKM-Batting-VR is a **Virtual Reality (VR) application** designed to provide an 
 
 ## Contributors 👥
 This project was a collaborative effort by the following team members:
-- **Nabil Meornaiman**
-- **Syakir Hariz**
+- **Nabil**
+- **Meornaiman**
+- **Syakir**
+- **Hariz**
 
 A huge thank you to our **lecturers and mentors** for their guidance throughout this project! 🎓
 
