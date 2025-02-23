@@ -1,18 +1,35 @@
-# VR-Game-Jam-Template
- Starter Project using Unity XR Toolkit created for VR Jam 2023
+UKM-Batting-VR 🎮🏏
+A Virtual Reality Batting Experience for an Immersive Cricket/Softball Training Simulation
 
-# Learn More About This Project
-[<img src="https://i.ytimg.com/vi/apnfGuMI0Dc/maxresdefault.jpg" width="50%">](https://youtu.be/apnfGuMI0Dc)
+Project Overview
+UKM-Batting-VR is a Virtual Reality (VR) application designed to provide an immersive batting simulation experience. This project was developed as part of a group effort at Universiti Kebangsaan Malaysia (UKM), focusing on utilizing VR technology to enhance user interaction and engagement in sports training.
 
-https://youtu.be/apnfGuMI0Dc
+Features
+✅ Realistic Batting Mechanics 🏏
+✅ VR-Optimized Environment 🌍
+✅ Multiplayer Capabilities 👥
+✅ Physics-Based Ball Movement ⚾
+✅ Scoring System & Analytics 📊
 
-# External Ressources
-This project uses a combination of these assets and tutorials :
+Technologies Used
+🛠 Game Engine: Unity
+📡 Multiplayer Framework: Normcore
+🎨 3D Models: Blender
+👓 VR Support: Meta Quest, HTC Vive
 
-https://youtu.be/6OT43pvUyfY
+Contributors & Credits
+This project was a collaborative effort by the following team members:
 
-https://youtu.be/JCyJ26cIM0Y
+Nabil,Meornaiman,Syakir,Hariz
+A huge thank you to our lecturers and mentors for their guidance throughout this project! 🎓
 
-https://kenney.nl/assets?q=audio
+Installation & Usage
+1️⃣ Clone the repository:
 
-https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples
+bash
+Copy
+Edit
+git clone https://github.com/danishbil7/UKM-Batting-VR.git
+2️⃣ Open the project in Unity
+3️⃣ Ensure VR headset compatibility is set up
+4️⃣ Run the project and start batting!
