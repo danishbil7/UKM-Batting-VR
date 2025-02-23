@@ -13,7 +13,6 @@ UKM-Batting-VR is a **Virtual Reality (VR) application** designed to provide an 
 
 ## Technologies Used 🛠
 - **Game Engine:** Unity 🎮
-- **Multiplayer Framework:** Normcore 📡
 - **3D Models & Assets:** Blender 🎨
 - **VR Support:** Meta Quest, HTC Vive 👓
 
