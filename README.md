@@ -20,7 +20,10 @@ Technologies Used
 Contributors & Credits
 This project was a collaborative effort by the following team members:
 
-Nabil,Meornaiman,Syakir,Hariz
+Nabil
+Meornaiman
+Syakir
+Hariz
 A huge thank you to our lecturers and mentors for their guidance throughout this project! 🎓
 
 Installation & Usage
@@ -33,3 +36,4 @@ git clone https://github.com/danishbil7/UKM-Batting-VR.git
 2️⃣ Open the project in Unity
 3️⃣ Ensure VR headset compatibility is set up
 4️⃣ Run the project and start batting!
+
